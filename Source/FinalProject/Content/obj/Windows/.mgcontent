@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/font.spritefont</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Models/bullet.FBX</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Models/p1_wedge.fbx</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Models/ParticleShader-complete.fx</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Models/pea_proj.tga</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Models/Spaceships_3.fbx</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Models/Sphere.FBX</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Models/wedge_p1_diff_v1.tga</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Music/boss1.mp3</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Music/stage1.mp3</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Music/stage2.mp3</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Music/title1.mp3</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/SimpleShading.fx</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/chink1.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/chink2.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/chink3.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/crash1.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/crash2.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/hit1.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/hit2.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/laser.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/menu1.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/menu2.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/menu3.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/metal1.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/metal2.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/metal3.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/metal4.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/powerBig.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/powerHealth.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/powerSpread.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Sounds/tuturu_1.wav</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/TerrainShader.fx</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Textures/emptySquare.png</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Textures/fire.png</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Textures/heightmap.png</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Textures/power1tex.jpg</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Textures/power2tex.jpg</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Textures/Square.png</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Textures/stars.png</File>
+    <File>C:/Users/sukeb/OneDrive/College/CPI311/Final Project/FinalProject/Content/Textures/stars2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

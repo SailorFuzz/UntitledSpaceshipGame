@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>//WDMYCLOUDMIRROR/Public/My Documents/College/2020 Fall/CPI311/Final Project/FinalProject/Content/Music/boss1.mp3</SourceFile>
+  <SourceTime>2020-12-01T06:04:07.5661756-07:00</SourceTime>
+  <DestFile>//WDMYCLOUDMIRROR/Public/My Documents/College/2020 Fall/CPI311/Final Project/FinalProject/Content/bin/Windows/Content/Music/boss1.xnb</DestFile>
+  <DestTime>2020-12-30T14:11:36.3124125-07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T16:17:54-07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>//WDMYCLOUDMIRROR/Public/My Documents/College/2020 Fall/CPI311/Final Project/FinalProject/Content/bin/Windows/Content/Music/boss1.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>//WDMYCLOUDMIRROR/Public/My Documents/College/2020 Fall/CPI311/Final Project/FinalProject/Content/Sounds/crash2.wav</SourceFile>
+  <SourceTime>2020-11-29T17:23:53.4092446-07:00</SourceTime>
+  <DestFile>//WDMYCLOUDMIRROR/Public/My Documents/College/2020 Fall/CPI311/Final Project/FinalProject/Content/bin/Windows/Content/Sounds/crash2.xnb</DestFile>
+  <DestTime>2020-12-30T14:11:44.5651737-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

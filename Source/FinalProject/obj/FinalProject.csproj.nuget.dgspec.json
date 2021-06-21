@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\WDMYCLOUDMIRROR\\Public\\My Documents\\College\\2020 Fall\\CPI311\\Final Project\\FinalProject\\FinalProject.csproj": {}
+  },
+  "projects": {
+    "\\\\WDMYCLOUDMIRROR\\Public\\My Documents\\College\\2020 Fall\\CPI311\\Final Project\\FinalProject\\FinalProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\WDMYCLOUDMIRROR\\Public\\My Documents\\College\\2020 Fall\\CPI311\\Final Project\\FinalProject\\FinalProject.csproj",
+        "projectName": "FinalProject",
+        "projectPath": "\\\\WDMYCLOUDMIRROR\\Public\\My Documents\\College\\2020 Fall\\CPI311\\Final Project\\FinalProject\\FinalProject.csproj",
+        "packagesPath": "C:\\Users\\sukeb\\.nuget\\packages\\",
+        "outputPath": "\\\\WDMYCLOUDMIRROR\\Public\\My Documents\\College\\2020 Fall\\CPI311\\Final Project\\FinalProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sukeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "\\\\WDMYCLOUDMIRROR\\Public\\My Documents\\College\\2020 Fall\\CPI311\\Final Project\\GameEngine\\GameEngine.csproj": {
+                "projectPath": "\\\\WDMYCLOUDMIRROR\\Public\\My Documents\\College\\2020 Fall\\CPI311\\Final Project\\GameEngine\\GameEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "MonoGame.Framework.WindowsDX": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\WDMYCLOUDMIRROR\\Public\\My Documents\\College\\2020 Fall\\CPI311\\Final Project\\GameEngine\\GameEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\WDMYCLOUDMIRROR\\Public\\My Documents\\College\\2020 Fall\\CPI311\\Final Project\\GameEngine\\GameEngine.csproj",
+        "projectName": "GameEngine",
+        "projectPath": "\\\\WDMYCLOUDMIRROR\\Public\\My Documents\\College\\2020 Fall\\CPI311\\Final Project\\GameEngine\\GameEngine.csproj",
+        "packagesPath": "C:\\Users\\sukeb\\.nuget\\packages\\",
+        "outputPath": "\\\\WDMYCLOUDMIRROR\\Public\\My Documents\\College\\2020 Fall\\CPI311\\Final Project\\GameEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sukeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "MonoGame.Framework.WindowsDX": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
